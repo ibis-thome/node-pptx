@@ -186,7 +186,6 @@
       }
     ],
     "no-lone-blocks": "error",
-    "no-loop-func": "warn",
     "no-multi-str": "warn",
     "no-native-reassign": "error",
     "no-negated-in-lhs": "error",
